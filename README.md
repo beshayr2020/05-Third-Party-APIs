@@ -8,10 +8,10 @@ You'll need to use the [Moment.js](https://momentjs.com/) library to work with d
 <b>Screenshots</b>
 
 <i>Work Day Scheduler page: </i>
-<img src="assets/workDayScheduler.jpg" alt="Work Day Scheduler">
+<img src="Assets/workDayScheduler.jpg" alt="Work Day Scheduler">
 
 
 <i> 
-<a href="https://beshayr2020.github.io/04-Web-APIs/">Quiz Application</a>
+<a href="https://beshayr2020.github.io/05-Third-Party-APIs/Develop/">Work Day Scheduler</a>
 </i>
 
